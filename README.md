@@ -8,10 +8,6 @@ A calculator project developed as part of the Odin Project curriculum. This calc
 
 Build a functional calculator capable of basic operations (addition, subtraction, multiplication, division) using HTML, CSS, and JavaScript. The project focuses on DOM manipulation, event handling, and JavaScript fundamentals.
 
-### Screenshot
-
-![Calculator Screenshot](screenshot.png) <!-- Replace with actual screenshot file path -->
-
 ## Assignment Checklist
 
 - [x] Set up a new project with HTML, CSS, and JavaScript files.
